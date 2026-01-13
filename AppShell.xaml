@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="SuperMarket.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:SuperMarket"
+    xmlns:pages="clr-namespace:SuperMarket.Pages"
+    Title="SuperMarket">
+    <ShellContent
+        Title="Login"
+        ContentTemplate="{DataTemplate pages:Login}"
+        Route="Login" />
+    <ShellContent
+    Title="Register"
+        ContentTemplate="{DataTemplate pages:Register}"
+        Route="Register" />
+    <ShellContent 
+        Title="Store"
+        ContentTemplate="{DataTemplate pages:Store}"
+        Route="Store"/>
+    <ShellContent
+        Title="SecurityPage"
+        ContentTemplate="{DataTemplate pages:SecurityPage}"
+        Route="SecurityPage"/>
+    <ShellContent 
+        Title="ChangeProductInfor"
+        ContentTemplate="{DataTemplate pages:ChangePorductInfor}"
+        Route="ChangeProductInfor"/> 
+    <ShellContent
+        Title="AddStock"
+        ContentTemplate="{DataTemplate pages:AddStock}"
+        Route="AddStock"/>
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+</Shell>
