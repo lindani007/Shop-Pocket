@@ -3,6 +3,7 @@
 ##By Lindani Dev 
 
  
+<img width="1024" height="1024" alt="myicon" src="https://github.com/user-attachments/assets/ba8e3ec5-9793-4716-a3d8-76d180e586c2" />
 
  
 
@@ -128,16 +129,19 @@ Your password you set when registering
  
 
 NOTE:  As an EMPLOYER you can login as employer and employee with the same credentials 
+![login](https://github.com/user-attachments/assets/dc97c259-f498-4839-a217-a9586d3834e1)
 
  
 
 Employee Page: self-service features such as Check Price, Card Fees, and Quick Withdraw. Click a button to navigate to the self-service you want to do. 
+![emplyee](https://github.com/user-attachments/assets/365dabe2-899d-43ed-8943-5776bc8e99ad)
 
  
 
 Stock page: add incoming stock, set cost/pack cost, stage additions, and commit with Done. 
 
- 
+ ![stock](https://github.com/user-attachments/assets/7ea81434-536d-47cb-b554-2916d821a9fb)
+
 
 Store page: selling workflow for attendants to ring up purchases. 
 
@@ -274,5 +278,6 @@ Short project summary one-line description of what the app does.
  
 
  
+
 
  
