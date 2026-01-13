@@ -1,6 +1,6 @@
-#Shop Pocket 
+# Shop Pocket 
 
-##By Lindani Dev 
+## By Lindani Dev 
 
  
 <img width="1024" height="1024" alt="myicon" src="https://github.com/user-attachments/assets/ba8e3ec5-9793-4716-a3d8-76d180e586c2" />
@@ -13,13 +13,13 @@
 
  
 
-#Shop Pocket 
+# Shop Pocket 
 
 Shop Pocket is a cross-platform self-service supermarket management and point-of-sale helper built with .NET MAUI. It provides quick price lookups, inventory management, simple transactions (card/cash), and basic reporting tools intended for small retailers and attendants. 
 
  
 
-#About The Project 
+# About The Project 
 
 Shop Pocket helps store staff perform quick, local tasks without needing full POS hardware: 
 
@@ -37,7 +37,7 @@ The project stores data in JSON files (local storage) and is designed for small 
 
  
 
-#Built With 
+# Built With 
 
 .NET 10 and .NET MAUI (cross-platform UI) 
 
@@ -53,7 +53,7 @@ JSON-based local persistence (custom Json helper classes)
 
  
 
-#Getting Started 
+# Getting Started 
 
 Clone the repository: 
 
@@ -67,7 +67,7 @@ Ensure the .NET MAUI workload is installed.
 
  
 
-#Prerequisites 
+# Prerequisites 
 
 .NET 10 SDK (matching your target frameworks) 
 
@@ -87,11 +87,11 @@ Git (for source control)
 
  
 
-#Installation 
+# Installation 
 
 Ensure prerequisites are installed. 
 
-Clone the repository: 
+Clone the repository: https://github.com/lindani007/Shop-Pocket.git
 
 Copy or add your app icon and splash images under Resources/Images/: 
 
@@ -112,7 +112,7 @@ Windows: set the Windows target and run (if supported on your machine).
 
  
 
-#Usage 
+ # Usage 
 
 App flow highlights: 
 
@@ -161,7 +161,7 @@ Use the built-in UI elements to search and select items; the CollectionView list
 
  
 
-#Roadmap 
+# Roadmap 
 
 ##Planned improvements: 
 
@@ -179,7 +179,7 @@ Implement role-based access controls and audit logs
 
  
 
-#Contributing 
+# Contributing 
 
 Contributionsare welcome. Please follow these steps: 
 
@@ -197,13 +197,13 @@ Please follow this repo's CONTRIBUTING.md and .editorconfig for style and commit
 
  
 
-#License 
+# License 
 
-This project is provided under the MIT License. See LICENSE LICENSE  file for details. 
+This project is provided under the MIT License. See LICENSE  file for details. 
 
  
 
-#Contact 
+# Contact 
 
 Project maintainer: Lindani  
 
@@ -213,9 +213,9 @@ Repository:  https://github.com/lindani007/Shop-Pocket.git
 
  
 
-#Acknowledgments 
+# Acknowledgments 
 
-##Third-party libraries and resources used: 
+## Third-party libraries and resources used: 
 
 .NET MAUI templates and docs 
 
@@ -229,7 +229,7 @@ Iconsor starter assets (update attribution as needed if you add third-party artw
 
  
 
-#File & Component Map (brief) 
+# File & Component Map (brief) 
 
 SuperMarket.csproj — project file and platform settings (application title, icons, splash config). 
 
@@ -261,7 +261,7 @@ Resources/Raw/ — raw assets (where applicable).
 
  
 
-#Line-by-line explanation 
+# Line-by-line explanation 
 
 Below is a concise explanation for each key line or block in this README to clarify intent. 
 
@@ -281,4 +281,5 @@ Short project summary one-line description of what the app does.
 
 
  
+
 
