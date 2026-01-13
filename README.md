@@ -209,7 +209,7 @@ Project maintainer: Lindani
 
 Email : lindanidev@outlook.com 
 
-Repository:  
+Repository:  https://github.com/lindani007/Shop-Pocket.git
 
  
 
@@ -281,3 +281,4 @@ Short project summary one-line description of what the app does.
 
 
  
+
